@@ -23,3 +23,37 @@ h1.entry-title {font-size: 1.5rem;}
 .entry-footer {display: none;}
 
 h2.entry-title a {font-size: 1.5rem;}
+
+.page-id-31 .header-image {
+	display: none;
+}
+
+.page-id-31 .site-title {display: none;}
+
+.page-id-31 .site-description {display: none;}
+
+.page-id-31 .widget_recent_entries {display: none;}
+
+.page-id-31 .widget_categories {display: none;}
+
+.page-id-31 .widget_nav_menu {display: none;}
+
+.page-id-31 .entry-title {display: none;}
+
+.page-id-31 .site-header {display: none;
+                        padding: 0px;}
+
+ .page-id-31 #wds_container1_0 
+#wds_container2_0 #wds_image_id_0_1 
+.wds_slideshow_image_0 { padding: 0 !important;
+    margin: 0 !important;
+    float: none !important;
+    vertical-align: middle;
+    background-position: center top;
+    background-size: cover;
+    width: 100%; 
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    
+} 
