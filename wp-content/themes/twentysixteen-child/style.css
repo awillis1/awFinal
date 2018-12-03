@@ -1,0 +1,25 @@
+/*
+Theme Name: Twenty Sixteen Child Theme
+Theme URI: 
+Description: Child Theme of Twenty Sixteen - Final Exam IMG 210
+Author: Alyssa Willis
+Author URI: img210.awillis1.imgd.ca/final
+Template: twentysixteen
+Version: 0.1.0
+*/
+
+
+h1.entry-title {font-size: 1.5rem;}
+
+
+.post-navigation .post-title {font-size: 1rem;}
+
+.site-content hr {
+    background-color: #000;
+    border: 0 none;
+    color: #000;
+    height: 1px;
+}
+.entry-footer {display: none;}
+
+h2.entry-title a {font-size: 1.5rem;}
